@@ -19,7 +19,7 @@ No installation required. Simply clone the repository and open `index.html` in y
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/renatosilveira99/Twitter-clone
+   git clone https://github.com/renatosilveira99/twitter-clone
    ```
 2. Open `index.html` in a web browser to view the page.
 
